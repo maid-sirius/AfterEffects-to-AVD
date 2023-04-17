@@ -1,0 +1,2 @@
+# AfterEffects-to-AVD
+以制作splash_screen动画为例记录一下从AI到AE到AVD或Lottie的工作流程
